@@ -1,4 +1,4 @@
-# random-matrix-spectra
+# random-networks
 
 Libraries for generating N x N random matrices with structured correlations, and their spectra for large N, as described in https://arxiv.org/abs/1610.09353. Includes a Jupyter notebook reproducing the figures.
 
