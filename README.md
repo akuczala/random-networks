@@ -12,7 +12,7 @@ genSpec.py produces the Green's functions and mean eigenvalue densities for larg
 The data folder contains precomputed eigenvalues for various matrix distributions. These are used to approximate eigenvalue densities for comparison with theory.
 
 ## Information in recurrent networks
-fisherlib.py computes the information capacity of coupled random recurrent networks. An example notebook is included.
+fisherlib.py computes the Fisher information (signal-to-noise ratio) of coupled random recurrent networks. An example notebook is included.
 
 
 
