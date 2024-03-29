@@ -12,7 +12,8 @@ genSpec.py produces the Green's functions and mean eigenvalue densities for larg
 The data folder contains precomputed eigenvalues for various matrix distributions. These are used to approximate eigenvalue densities for comparison with theory.
 
 ## Information in recurrent networks
-fisherlib.py computes the Fisher information (signal-to-noise ratio) of coupled random recurrent networks. An example notebook is included.
+fisherlib.py computes the Fisher information (signal-to-noise ratio) of coupled random recurrent networks. An example notebook is included. See [here](https://www.proquest.com/openview/0c47ae4baff7f9571fc099cd664043a5/1.pdf) for details.
 
 ## Stochastic network dynamics
 Dynamics.jl simulates random symmetric recurrent networks using the [DifferentialEquations](https://github.com/JuliaDiffEq/DifferentialEquations.jl) package. It also provides functions that uniformly sample from the [Gaussian orthogonal ensemble](https://en.wikipedia.org/wiki/Random_matrix#Gaussian_ensembles). An example notebook is included.
+Again see [here](https://www.proquest.com/openview/0c47ae4baff7f9571fc099cd664043a5/1.pdf) for details.
